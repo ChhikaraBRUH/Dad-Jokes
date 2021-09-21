@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap");
+
+body {
+	background-color: #3b82f6;
+}
+
+.App {
+	font-family: roboto, sans-serif;
+	text-align: center;
+	max-width: 80%;
+	margin: 2rem auto;
+	background-color: #ffffff;
+	padding: 2rem;
+	border-radius: 1rem;
+	box-shadow: 0px 5px 15px -5px #000000;
+}
+
+.btn {
+	border: solid 0px;
+	border-radius: 5px;
+	min-width: 10rem;
+	padding: 0.5rem;
+	font-size: 1.5rem;
+	color: #ffffff;
+	background-color: #3b82f6;
+	box-shadow: 0px 5px 15px -5px #818cf8;
+	margin: 0rem 1rem 1rem 1rem;
+	cursor: pointer;
+}
+
+#setupTxt {
+	font-size: 1.5rem;
+	padding: 1rem;
+	margin: 1rem;
+}
+
+#punchlineTxt {
+	font-size: 1.5rem;
+	/* padding: 1rem; */
+	margin: 0rem 1rem 1rem 1rem;
+	font-weight: bold;
+	font-style: italic;
+}
+
+hr {
+	margin: 1rem 2rem;
+}
+
+img {
+	margin: 1rem 1rem 0rem 1rem;
+	width: 1.8rem;
+}
+
+a {
+	text-decoration: none;
+	margin: 0rem;
+}
